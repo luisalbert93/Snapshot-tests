@@ -1,6 +1,6 @@
 import React from "react"
 import Card from "react-bootstrap/Card"
-import profile from './bugsbunny-photo.jpeg'
+import profile from './bugsbunny-photo.jpg'
 
 function GitHubCard() {
   const imgStyle = {
