@@ -12,7 +12,7 @@ exports[`renders a snapshot 1`] = `
   >
     <img
       className="card-img-top"
-      src="cladden-photo.jpeg"
+      src="bugsbunny-photo.jpeg"
       style={
         Object {
           "borderRadius": "20px",
@@ -26,15 +26,15 @@ exports[`renders a snapshot 1`] = `
       <div
         className="card-title h5"
       >
-        Chris Ladden
+        Luis Donis 
       </div>
       <p
         className="card-text"
       >
-        I'm a multi-diciplinary designer and developer living in Olathe, Kansas!
+        I'm a Software Developer Student Living in Los Angeles!
       </p>
     </div>
   </div>
 </div>
 `;
-Footer
+
